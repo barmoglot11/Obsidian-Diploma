@@ -1,0 +1,23 @@
+{
+  "soundscape": "CUSTOM_99c7ddb6-7449-4fdd-aa99-b8ca62c449a5",
+  "volume": 25,
+  "autoplay": false,
+  "scrollSongTitle": true,
+  "customSoundscapes": [
+    {
+      "id": "99c7ddb6-7449-4fdd-aa99-b8ca62c449a5",
+      "name": "Koruse",
+      "tracks": [
+        {
+          "name": "KoruSe, MITUJURO - NEW WAY",
+          "id": "https://www.youtube.com/watch?v=yOIj9lTv32c"
+        }
+      ]
+    }
+  ],
+  "myMusicIndex": [],
+  "myMusicFolderPath": "",
+  "reindexFrequency": "5",
+  "myMusicShuffle": false,
+  "currentTrackIndex": 0
+}

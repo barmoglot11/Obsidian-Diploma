@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#dbdbdb",
+    "recentlyUsedIcons": [
+      "LiBookOpen",
+      "LiBookTemplate",
+      "LiGamepad2",
+      "RiProgress4Line",
+      "LiPackageSearch"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Обучение": "LiBook",
+  "Задачи": "LiListTodo",
+  "Видео-контент": "LiVideo",
+  "Учеба": "LiSchool2",
+  "Учеба/Политех/Статьи": "LiNewspaper",
+  "Учеба/Политех/AR-MR": "LiPackageSearch",
+  "Учеба/Политех/Python": "RiProgress4Line",
+  "CHRONOS": "LiGamepad2",
+  "Template": "LiBookTemplate",
+  "Обучение/Языки программирования/Теория": "LiBookOpen"
+}

@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "4c8bddffe3b5f794",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b4392736a185c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac210060072f5e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение/Языки программирования/Python/БАЗА/Исключения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Исключения"
+            }
+          },
+          {
+            "id": "a6bf01d50d61d507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd529c2f1f0fe6c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "51fd0c95dbdcafc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a690a0add9dfca93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab5659dcf95b02a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Главныйфайл",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d6438c28192e7d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b19243870b83de44",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b61bc09cc22b32",
+        "type": "tabs",
+        "dimension": 40.095238095238095,
+        "children": [
+          {
+            "id": "9b74d9dabea21a1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "6e694a1a6579d4bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6b14faec06202782",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "43251985b1880a3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "411f67dd1098ae13",
+        "type": "tabs",
+        "dimension": 33.523809523809526,
+        "children": [
+          {
+            "id": "bcc7baf041c583b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "28d75832fdaf46c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "65c845d461131246",
+        "type": "tabs",
+        "dimension": 26.380952380952387,
+        "children": [
+          {
+            "id": "0833c022ca1d86f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a6bf01d50d61d507",
+  "lastOpenFiles": [
+    "Обучение/Языки программирования/Python/БАЗА/Исключения.md",
+    "Обучение/Языки программирования/Python/БАЗА/Конвертация типов данных.md",
+    "Обучение/Языки программирования/CSharp.md",
+    "Обучение/Языки программирования/Python/БАЗА/Кортеж.md",
+    "Обучение/Языки программирования/Python/БАЗА/Синтаксис.md",
+    "Обучение/Языки программирования/Python/БАЗА/Словарь.md",
+    "Обучение/Языки программирования/Python/БАЗА/Список.md",
+    "Обучение/RoadMap-ы.md",
+    "Обучение/Языки программирования/Python.md",
+    "Обучение/Языки программирования/Python/БАЗА/Циклы.md",
+    "Обучение/Языки программирования/Python/БАЗА/Функции.md",
+    "Обучение/Языки программирования/Python/БАЗА/Условные операторы.md",
+    "Обучение/Языки программирования/Python/БАЗА/Типы данных.md",
+    "Обучение/Языки программирования/Java.md",
+    "Обучение/Языки программирования/Python/БАЗА/Сет.md",
+    "Обучение/Языки программирования/Javascript.md",
+    "Обучение/Языки программирования/C++.md",
+    "Обучение/Языки программирования.md",
+    "Обучение/Языки программирования/Теория/ООП/Парадигмы.md",
+    "Обучение/Языки программирования/CSharp/Синтаксис.md",
+    "Обучение/Языки программирования/Теория/ООП",
+    "Обучение/Языки программирования/CSharp/Паттерны CS.md",
+    "Задачи/2024-10-30.md",
+    "Обучение/Языки программирования/Теория/Тернарный оператор.md",
+    "Обучение/Языки программирования/Python/ООП",
+    "Обучение/Языки программирования/Python/Продвинутые функции",
+    "Обучение/Языки программирования/Python/Структуры данных и Алгоритмы",
+    "Модули.md",
+    "Обучение/Языки программирования/Python/БАЗА",
+    "Обучение/Языки программирования/JavaScript/Синтаксис.md",
+    "Конвертация типов.md",
+    "Обучение/Языки программирования/Java",
+    "Обучение/Языки программирования/JavaScript",
+    "Обучение/Языки программирования/C++",
+    "Обучение/Unreal",
+    "Обучение/Unity",
+    "Учеба/Политех/Python/БД Схема.canvas",
+    "Cache/Lappland_wallpaper.jpg",
+    "Учеба/Политех/Диплом/MindMap.canvas",
+    "Cache/wallpaper_newTab.jpg"
+  ]
+}
