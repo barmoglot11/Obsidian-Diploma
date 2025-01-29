@@ -1,16 +1,17 @@
 [
-  "templater-obsidian",
-  "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-style-settings",
   "beautitab",
-  "calendar",
-  "dataview",
   "cmenu-plugin",
-  "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
-  "obsidian-importer",
-  "multi-properties",
-  "nldates-obsidian",
   "code-styler",
-  "obsidian-git"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-importer",
+  "obsidian-kanban",
+  "obsidian-style-settings",
+  "nldates-obsidian",
+  "multi-properties",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-file-color",
+  "obsidian-full-calendar",
+  "make-md"
 ]

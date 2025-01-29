@@ -4,21 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9264546d4b2e365",
+        "id": "e898cb125d18761d",
         "type": "tabs",
         "children": [
           {
-            "id": "b498ef07262b2909",
+            "id": "9581631255648eeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Полезные Материалы/Ссылки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ссылки"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Главныйфайл",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,12 +67,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ee6e91989773b3fd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "b19243870b83de44",
@@ -86,7 +92,7 @@
       {
         "id": "b4b61bc09cc22b32",
         "type": "tabs",
-        "dimension": 40.095238095238095,
+        "dimension": 45.765937202664134,
         "children": [
           {
             "id": "9b74d9dabea21a1e",
@@ -94,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Презентации/AR туризм инфраструктура Абрамов.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for AR туризм инфраструктура Абрамов"
             }
           },
           {
@@ -113,11 +119,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Презентации/AR туризм инфраструктура Абрамов.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from AR туризм инфраструктура Абрамов"
+            }
+          },
+          {
+            "id": "6b14faec06202782",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           },
           {
@@ -131,52 +148,39 @@
             }
           },
           {
-            "id": "c050aebbaed0aef3",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "411f67dd1098ae13",
-        "type": "tabs",
-        "dimension": 33.523809523809526,
-        "children": [
-          {
-            "id": "bcc7baf041c583b5",
+            "id": "fa23b767f80ffc5a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Полезные Материалы/Ссылки.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Ссылки"
-            }
-          },
-          {
-            "id": "28d75832fdaf46c9",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "efedecfc4a7cdd82",
+        "type": "tabs",
+        "dimension": 32.445290199809705,
+        "children": [
+          {
+            "id": "1c64c893eb652de1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       },
       {
         "id": "65c845d461131246",
         "type": "tabs",
-        "dimension": 26.380952380952387,
+        "dimension": 21.78877259752617,
         "children": [
           {
             "id": "0833c022ca1d86f2",
@@ -195,63 +199,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "43251985b1880a3c",
   "lastOpenFiles": [
-    "Диплом/Механики/Схемы/Машина состояний.canvas",
-    "Полезные Материалы/Ссылки.md",
-    "Полезные Материалы",
-    "Диплом/Механики/Схемы/Игровой цикл.canvas",
-    "Диплом/MindMap.canvas",
-    "Диплом/Механики/Схемы",
-    "Диплом/Сюжет.md",
-    "Диплом/Механики.md",
-    "Диплом/Сюжет",
-    "Диплом/Пероснажи",
-    "Диплом/Механики",
-    "Диплом/Персонажи.md",
-    "Диплом/Питч проекта.md",
-    "README.md",
-    "Обучение/Языки программирования/Python/БАЗА/Исключения.md",
-    "Обучение/Языки программирования/Python/БАЗА/Конвертация типов данных.md",
-    "Обучение/Языки программирования/CSharp.md",
-    "Обучение/Языки программирования/Python/БАЗА/Кортеж.md",
-    "Обучение/Языки программирования/Python/БАЗА/Синтаксис.md",
-    "Обучение/Языки программирования/Python/БАЗА/Словарь.md",
-    "Обучение/Языки программирования/Python/БАЗА/Список.md",
-    "Обучение/RoadMap-ы.md",
-    "Обучение/Языки программирования/Python.md",
-    "Обучение/Языки программирования/Python/БАЗА/Циклы.md",
-    "Обучение/Языки программирования/Python/БАЗА/Функции.md",
-    "Обучение/Языки программирования/Python/БАЗА/Условные операторы.md",
-    "Обучение/Языки программирования/Python/БАЗА/Типы данных.md",
-    "Обучение/Языки программирования/Java.md",
-    "Обучение/Языки программирования/Python/БАЗА/Сет.md",
-    "Обучение/Языки программирования/Javascript.md",
-    "Обучение/Языки программирования/C++.md",
-    "Обучение/Языки программирования.md",
-    "Обучение/Языки программирования/Теория/ООП/Парадигмы.md",
-    "Обучение/Языки программирования/Теория/ООП",
-    "Обучение/Языки программирования/Python/ООП",
-    "Обучение/Языки программирования/Python/Продвинутые функции",
-    "Обучение/Языки программирования/Python/Структуры данных и Алгоритмы",
-    "Обучение/Языки программирования/Python/БАЗА",
+    "Проекты/Диплом - Игра/Сюжет/Сюжет демо-уровня1.md",
+    "Ресурсы/Гейминг/Skyrim/Трекер предметов в Safehouse.md",
+    "Проекты/Диплом - Игра/Сюжет/Сюжет демо-уровня.md",
+    "Проекты/PetProject - Unity Learn - Farm2D/PetProject - Unity Learn - Farm2D.md",
+    "Ресурсы/Гейминг/Skyrim/Прохождения классами.md",
+    "Ресурсы/Гейминг/Skyrim/Прохождения/Прохождения.md",
+    "Ресурсы/Гейминг/Skyrim/Прохождения/Role-play прохождение.md",
+    "Ресурсы/Гейминг/Skyrim/Skyrim.md",
+    "Ресурсы/Гейминг/Skyrim/Прохождения",
+    "Ресурсы/Гейминг/Skyrim",
+    "Ресурсы/Здоровье/Здоровье.md",
+    "Ресурсы/Гейминг/Гейминг.md",
+    "Ресурсы/Ресурсы.md",
+    "Vault.md",
+    "Проекты/Диплом - Игра/Сюжет/Сюжет.md",
+    "Calendar Notes/2025-01-25 Стрижка.md",
+    "Calendar Notes/2025-01-25 Пары.md",
+    "Проекты/Диплом - Игра/Сюжет",
+    "Проекты/PetProject - Unity Learn - Farm2D/Untitled.md",
+    "Проекты/PetProject - Unity Learn - Farm2D/asd.md",
+    "Проекты/PetProject - Unity Learn - Farm2D",
+    "Сферы/Разработка игр/Unity/Unity.md",
+    "Сферы/Разработка игр/Unity/Объекты.md",
+    "Сферы/Разработка игр/Unity/Компоненты/Компоненты.md",
+    "Сферы/Разработка игр/Unity/Компоненты",
+    "Сферы/Разработка игр/Источники информации.md",
+    "Проекты/PetProject - Ферма РПГ/Ферма механики.md",
+    "Сферы/Разработка игр/Unity",
+    "Сферы/Разработка игр/Разработка игр.md",
+    "Проекты/PetProject - Ферма РПГ/Механики/Инвентарь.md",
+    "Проекты/PetProject - Ферма РПГ/Механики/НПС.md",
+    "Проекты/PetProject - Ферма РПГ/Механики/Культуры.md",
+    "Проекты/PetProject - Ферма РПГ/Карта интерфейсов.canvas",
+    "Проекты/PetProject - Ферма РПГ/Экраны",
+    "Начальный экран.canvas",
+    "Проекты/PetProject - Ферма РПГ/Механики",
+    "Cache/Projects/Ферма/Концепт.jpg",
+    "Cache/Projects/Ферма/Концепт.jpg.opdownload",
+    "Cache/Projects/Ферма",
+    "//Untitled.canvas",
+    "Cache/YCEIi7l9kno.jpg",
+    "Cache/unityRoadMap.png",
+    "Cache/The Three Pillars of Game Economy.png",
+    "Обучение/Техника/Компьютеры/Untitled.canvas",
+    "Cache/Pasted image 20241116190353.png",
+    "Cache/Схема.png",
     "Учеба/Политех/Python/БД Схема.canvas",
     "Cache/Lappland_wallpaper.jpg",
     "Учеба/Политех/Диплом/MindMap.canvas",
