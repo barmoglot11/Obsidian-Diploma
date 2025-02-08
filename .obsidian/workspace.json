@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e898cb125d18761d",
+        "id": "a369f30aae4f3974",
         "type": "tabs",
         "children": [
           {
-            "id": "9581631255648eeb",
+            "id": "42cecb1edf0a6d07",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Диплом/Механики/Раскладка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Раскладка"
             }
           }
         ]
@@ -69,7 +74,7 @@
             }
           },
           {
-            "id": "ee6e91989773b3fd",
+            "id": "c1b1e7b8d61a7154",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -189,7 +194,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -219,6 +226,28 @@
   },
   "active": "43251985b1880a3c",
   "lastOpenFiles": [
+    "Диплом/Механики/Диалоговая система.md",
+    "Диплом/Механики/Интерфейс.md",
+    "Диплом/Механики/Схемы/Механики.canvas",
+    "Диплом/Механики/Интерактив.md",
+    "Диплом/Механики/Боевая система.md",
+    "Диплом/Механики/Расследование.md",
+    "Диплом/Механики/Раскладка.md",
+    "Диплом/Механики/Схемы/Схемы.md",
+    "Vault.md",
+    "Диплом/Сюжет/Сюжет демо-уровня.md",
+    "Диплом/Механики.md",
+    "Диплом/Сюжет.md",
+    "Диплом/Персонажи.md",
+    "Диплом/Пероснажи/Главный герой.md",
+    "Диплом/Механики/Схемы/Игровой цикл.canvas",
+    "Диплом/Механики/Схемы/Машина состояний.canvas",
+    "Диплом/Питч проекта.md",
+    "Tags/#+#диплом",
+    "Cache/eizU8CwpyzA.jpg",
+    "Cache/eizU8CwpyzA.jpg.opdownload",
+    "Cache",
+    "Новая папка",
     "Проекты/Диплом - Игра/Сюжет/Сюжет демо-уровня1.md",
     "Ресурсы/Гейминг/Skyrim/Трекер предметов в Safehouse.md",
     "Проекты/Диплом - Игра/Сюжет/Сюжет демо-уровня.md",
@@ -232,32 +261,13 @@
     "Ресурсы/Здоровье/Здоровье.md",
     "Ресурсы/Гейминг/Гейминг.md",
     "Ресурсы/Ресурсы.md",
-    "Vault.md",
-    "Проекты/Диплом - Игра/Сюжет/Сюжет.md",
-    "Calendar Notes/2025-01-25 Стрижка.md",
-    "Calendar Notes/2025-01-25 Пары.md",
     "Проекты/Диплом - Игра/Сюжет",
-    "Проекты/PetProject - Unity Learn - Farm2D/Untitled.md",
-    "Проекты/PetProject - Unity Learn - Farm2D/asd.md",
     "Проекты/PetProject - Unity Learn - Farm2D",
-    "Сферы/Разработка игр/Unity/Unity.md",
-    "Сферы/Разработка игр/Unity/Объекты.md",
-    "Сферы/Разработка игр/Unity/Компоненты/Компоненты.md",
     "Сферы/Разработка игр/Unity/Компоненты",
-    "Сферы/Разработка игр/Источники информации.md",
-    "Проекты/PetProject - Ферма РПГ/Ферма механики.md",
     "Сферы/Разработка игр/Unity",
-    "Сферы/Разработка игр/Разработка игр.md",
-    "Проекты/PetProject - Ферма РПГ/Механики/Инвентарь.md",
-    "Проекты/PetProject - Ферма РПГ/Механики/НПС.md",
-    "Проекты/PetProject - Ферма РПГ/Механики/Культуры.md",
     "Проекты/PetProject - Ферма РПГ/Карта интерфейсов.canvas",
-    "Проекты/PetProject - Ферма РПГ/Экраны",
     "Начальный экран.canvas",
-    "Проекты/PetProject - Ферма РПГ/Механики",
     "Cache/Projects/Ферма/Концепт.jpg",
-    "Cache/Projects/Ферма/Концепт.jpg.opdownload",
-    "Cache/Projects/Ферма",
     "//Untitled.canvas",
     "Cache/YCEIi7l9kno.jpg",
     "Cache/unityRoadMap.png",
