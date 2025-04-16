@@ -63,10 +63,10 @@
     "//Ресурсы/Ресурсы/Гейминг/Ресурсы/Гейминг/Skyrim",
     "//Ресурсы/Ресурсы/Гейминг/Ресурсы/Гейминг/Skyrim/Ресурсы/Гейминг/Skyrim/Прохождения",
     "//Диплом",
-    "//Диплом/Диплом/Сюжет",
-    "//Диплом/Диплом/Пероснажи",
-    "//Диплом/Диплом/Механики",
-    "//Диплом/Диплом/Механики/Диплом/Механики/Схемы"
+    "//Диплом/Диплом/Механики/Диплом/Механики/Схемы",
+    "//Диплом/Диплом/Предметы",
+    "//Диплом/Диплом/Реплики",
+    "//Диплом/Диплом/Сюжет"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -83,7 +83,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,

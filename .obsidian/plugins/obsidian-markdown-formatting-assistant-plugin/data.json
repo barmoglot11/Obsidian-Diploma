@@ -21,13 +21,13 @@
     },
     {
       "name": "tables",
-      "active": true,
+      "active": false,
       "visible": false
     },
     {
       "name": "html",
       "active": true,
-      "visible": false
+      "visible": true
     },
     {
       "name": "latex",
@@ -41,7 +41,7 @@
     },
     {
       "name": "colors",
-      "active": true,
+      "active": false,
       "visible": false
     },
     {
